@@ -10,5 +10,5 @@
 ### hystrix-dashboard 	hystrix仪表板(熔断仪表盘)
 ### turbine		集群监控
 ### turbine-amqp	集群监控(amqp) #消息队列
-### redis-http-session	spring-session demo
+### redis-http-session	共享Session 使用spring-session + redis 3.2(in docker)
 	
