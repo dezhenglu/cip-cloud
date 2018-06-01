@@ -1,0 +1,1 @@
+java -jar target/hello-service-1.0.0.jar --server.port=28989 --management.port=11112

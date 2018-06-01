@@ -1,0 +1,1 @@
+java -jar target/ribbon-consumer-1.0.0.jar --server.port=29876 --spring.application.name=ribbon-consumer-2

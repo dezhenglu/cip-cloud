@@ -1,0 +1,5 @@
+com\neusoft\mid\cip\cloud\feignconsumer\service\RefactorHelloService.class
+com\neusoft\mid\cip\cloud\feignconsumer\controller\ConsumerController.class
+com\neusoft\mid\cip\cloud\feignconsumer\FeignConsumerApp.class
+com\neusoft\mid\cip\cloud\feignconsumer\service\HelloService.class
+com\neusoft\mid\cip\cloud\feignconsumer\component\HelloServiceFallback.class

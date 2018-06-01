@@ -1,0 +1,3 @@
+com\neusoft\mid\cip\cloud\hello\HelloServiceApp.class
+com\neusoft\mid\cip\cloud\hello\controller\RefactorHelloService.class
+com\neusoft\mid\cip\cloud\hello\controller\HelloController.class
