@@ -1,5 +1,3 @@
-README
-===========================
 # 组件描述
 ### eureka-server	服务治理
 ### api-gateway		网关
@@ -12,4 +10,5 @@ README
 ### hystrix-dashboard 	hystrix仪表板(熔断仪表盘)
 ### turbine		集群监控
 ### turbine-amqp	集群监控(amqp) #消息队列
+### redis-http-session	spring-session demo
 	
