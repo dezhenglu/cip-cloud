@@ -11,4 +11,5 @@
 ### turbine		集群监控
 ### turbine-amqp	集群监控(amqp) #消息队列
 ### redis-http-session	共享Session 使用spring-session + redis 3.2(in docker)
-### test proxy commit	
+
+
